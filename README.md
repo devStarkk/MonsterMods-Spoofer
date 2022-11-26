@@ -1,2 +1,1 @@
-# MonsterMods-Spoofer
-paste fivem spoofer xd
+this spoofer is a vanity spoofer with changes
